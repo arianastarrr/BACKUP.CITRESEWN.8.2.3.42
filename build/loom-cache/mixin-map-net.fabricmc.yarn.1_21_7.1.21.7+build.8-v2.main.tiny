@@ -1,0 +1,4 @@
+v1	named	intermediary
+FIELD	shcm/shsupercm/fabric/citresewn/mixin/AtlasLoaderMixin	Ljava/util/List;	sources	field_41388
+FIELD	shcm/shsupercm/fabric/citresewn/mixin/ResourceFinderMixin	Ljava/lang/String;	fileExtension	field_39967
+FIELD	shcm/shsupercm/fabric/citresewn/mixin/broken_paths/ReloadableResourceManagerImplMixin	Lnet/minecraft/resource/ResourceType;	type	field_14294
